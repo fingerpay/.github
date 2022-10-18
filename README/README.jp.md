@@ -4,10 +4,10 @@
   <tbody>
     <tr>
       <td>
-        <a href="README/README.jp.md">Japanese / 日本語</a>
+        <a href="https://github.com/fingerpay/.github/blob/main/README/README.jp.md">Japanese / 日本語</a>
       </td>
       <td>
-        <a href="README/README.en.md">English / 英語</a>
+        <a href="https://github.com/fingerpay/.github/blob/main/README/README.en.md">English / 英語</a>
       </td>
     </tr>
   </tbody>
