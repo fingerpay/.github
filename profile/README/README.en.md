@@ -1,4 +1,4 @@
-[![LOGO OF FINGER PAY](/profile/README/assets/FINGERPAY_LOGO_TRANSPARENT.png)](https://github.com/fingerpay)
+[![LOGO OF FINGER PAY](/profile/README/assets/FINGER-PAY_BANNER_SMALL_TRANSPARENT.png)](https://github.com/fingerpay)
 
 # FINGER PAY
 <table>
