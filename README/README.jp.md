@@ -18,6 +18,7 @@ A repository for profile of this organization. English and Japanese versions are
 この Repository は、この Organization のプロフィールのためのものです。 英語版および日本語版が使用できます。
 
 ## アップデートポリシー
+
 以下のファイルを編集することで、プロフィールを更新できます。
 
 ```
@@ -30,8 +31,10 @@ A repository for profile of this organization. English and Japanese versions are
 - Reviewer を指定してください。
 
 - `main` ブランチへの直接のコミット及び、レビューのない `main` ブランチへのプルリクエストのマージは固く禁じられています。
-  
+
   `main` ブランチは、GitHub branch protection システムによって保護されます。
 
 ## GitHub Organization Public Profile について
-詳しくは [About your organization's profile - GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-organizations-profile) をご覧ください。
+
+詳しくは [About your organization's profile - GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-organizations-profile)
+をご覧ください。
