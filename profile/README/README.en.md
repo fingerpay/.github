@@ -17,8 +17,6 @@
 
 This project is **FOR RESEARCHMENT AND EDUCATION**, a work of "PBL Experiment" held in NITIC (Kosen), Ibaraki College.
 
-The icon is by freepik.
-
 ## About
 
 FINGER PAY is a brand new, game changer of the history of payment systems.
